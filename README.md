@@ -26,5 +26,5 @@ Here is the breakdown of the project:
 
 
 
-#### **Conclusion
+#### Conclusion
 Based on the confusion matrix, LinearSVC provided the highest number of true positive and true negative label. The accuracy of the model on both the validation and test data was approximately 93 percent. 
