@@ -8,8 +8,8 @@ The [data](https://www.kaggle.com/andrewmvd/trip-advisor-hotel-reviews) used for
 #### **Project Goal**
 The goal of this project was to build a classifier that predicts customer reviews as either positive or negative. 
 Here is the breakdown of the project: 
-* **Exploratory Data Analysis**
-* **Data Cleaning and preprocessing**
+* Exploratory Data Analysis
+* Data Cleaning and preprocessing
 	* Removing URL
 	* Lower casing
 	* Dealing with contractions
