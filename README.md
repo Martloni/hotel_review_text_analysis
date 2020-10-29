@@ -1,6 +1,6 @@
 ## Hotel Review Sentiment analysis
 
-Hotels play crucial role in travelling and the text reviews provided by clients is a reflection of their of their experience with the hotel. 
+Hotels play a crucial role in travelling and the text reviews provided by clients is a reflection of their experience with the hotel. 
 
 #### **Data Source**
 The [data](https://www.kaggle.com/andrewmvd/trip-advisor-hotel-reviews) used for this analsysis was obtained from kaggle. The dataset consist of 20,491 reviews
